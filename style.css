@@ -48,6 +48,9 @@ body {
 .greetings > span:nth-child(15) { animation-delay: 2.1s; }
 .greetings > span:nth-child(16) { animation-delay: 2.25s; }
 .greetings > span:nth-child(17) { animation-delay: 2.4s; }
+.greetings > span:nth-child(18) { animation-delay: 2.5s; }
+.greetings > span:nth-child(19) { animation-delay: 2.6s; }
+.greetings > span:nth-child(20) { animation-delay: 2.7s; }
 
 .description {
     font-size: 0.8rem;
